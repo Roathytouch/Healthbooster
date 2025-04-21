@@ -2,7 +2,7 @@ from aiohttp import web
 import json
 import requests
 
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
+TELEGRAM_TOKEN = "8148818305:AAHtrO5_G4HfZSy4vL9oDDthELYEzEWey8A"  # Replace with your bot token
 TELEGRAM_API = f"https://api.telegram.org/bot{8148818305:AAHtrO5_G4HfZSy4vL9oDDthELYEzEWey8A}"
 
 async def handle_webhook(request):
